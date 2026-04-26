@@ -51,7 +51,7 @@ def test_get_nth_fibonacci_one():
     # Arrange
     n = 1
 
-    # Act
+    Act
     result = get_nth_fibonacci(n)
 
     # Assert
